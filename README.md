@@ -3,7 +3,7 @@
 >
 > Get AWS creds suitable for use with terraform, aws cli etc ...
 >
-> Interactively assume an AWS role based on your Elsevier AD group.
+> Interactively assume an AWS role based on an AD group.
 >
 > By default creds are written to your ~/.aws dir as AWS profiles.
 >
